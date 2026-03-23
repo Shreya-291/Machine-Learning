@@ -15,7 +15,7 @@ Using the **Iris dataset**, the tutorial visualizes how different values of thes
 
 - **svm_hyperparameter_tuning.ipynb** – Jupyter Notebook containing the implementation and visualizations  
 - **tutorial_report.pdf** – Tutorial report explaining the experiment and results  
-- **Generated figures** – Images used in the report
+
 
 ## Requirements
 
